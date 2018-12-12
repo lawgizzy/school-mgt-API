@@ -1,1 +1,1 @@
-# School Management Web API for course registration in higher institutions. Developed as a Restful Architecture using core J2EE and MySQL.
+# school-mgt-API is a Web API developed using the Restful Architecture to aid course management in higher institutions. Technologies used include Java, Jersey API, Servlet, MySQL, Tomcat Server 7, Postman.
